@@ -145,7 +145,7 @@ git clone https://github.com/mahak-maheshwari-26/Brain-Tumor-Classification.git
 Move into the project folder:
 
 ```bash
-cd <repository-name>
+cd <Brain-Tumor-Classification>
 ```
 
 Install dependencies:
