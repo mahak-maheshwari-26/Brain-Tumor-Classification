@@ -111,7 +111,7 @@ These results demonstrate strong classification performance while maintaining ba
 ## Project Structure
 
 ```
-Brain-Tumor-Detection/
+Brain-Tumor-Classification/
 │
 ├── app.py
 ├── requirements.txt
